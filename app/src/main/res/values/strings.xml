@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appel File Yeastar</string>
+    <string name="call_in_progress">Appel en cours…</string>
+</resources>
