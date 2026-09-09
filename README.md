@@ -1,3 +1,10 @@
+> ⚠️ **Ce README décrit l'ancienne version de l'application** (pool d'extensions
+> saisi à la main dans le téléphone). Depuis la mise à jour du 2026-09-09,
+> l'application demande une ligne au serveur 3CA_COMMERCIAL, qui la lui prête et
+> retient qui l'utilise ; elle reçoit également les rappels du centre d'appel.
+>
+> Lire **[LISEZ-MOI-MAJ.md](LISEZ-MOI-MAJ.md)** et **[FIREBASE.md](FIREBASE.md)**.
+
 # Appel File Yeastar — Application Android
 
 Application Android native (Kotlin + Jetpack Compose) qui se connecte à un
